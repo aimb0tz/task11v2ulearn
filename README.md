@@ -1,2 +1,2 @@
-# task11v2ulearn
+# Табуркин Игорь Юрьевич Задание 11.2
 Код из задания находится здесь: src/main/java/PoolExample.java
